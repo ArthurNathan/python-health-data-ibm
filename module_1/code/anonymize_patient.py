@@ -1,5 +1,5 @@
 # Anonimizador de nomes de pacientes
-nome = "01Arthur-Nathan Luiz"
+nome = "Arthur-Nathan Luiz"
 lista_nome = nome.split()
 resultado = ""
 for i in lista_nome:
